@@ -1,2 +1,2 @@
 # fulltest
-test githoba i apki windozowej
+test githuba i apki windozowej
